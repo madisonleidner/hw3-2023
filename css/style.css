@@ -37,45 +37,45 @@ div{
     margin-top: 15px;
     line-height: 200%;
 }
-.red{
+div.red{
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-top: 2px;
-    border-right: 5px;
+    border-bottom: 2px;
+    border-left: 5px;
 }
-.blue{
+div.blue{
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-left: 5px;
-    border-bottom: 2px;
+    border-right: 5px;
+    border-top: 2px;
     color: #C4C4C4;
 }
-.blue h2{
+div.blue h2{
     color:#C4C4C4;
 }
-.yellow{
+div.yellow{
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
-    border-top: 2px;
-    border-right: 5px;
+    border-bottom: 2px;
+    border-left: 5px;
     color: #707070;
 }
-.green{
+div.green{
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-left: 5px;
-    border-bottom: 2px;
+    border-right: 5px;
+    border-top: 2px;
 }
 footer{
     background-image: linear-gradient(to right, #000000, #0000ff, #0066ff, #0000);
     border: 5px solid #ffffff;
 }
 footer p{
-    font: 20px;
+    font-size: 20px;
     text-align: right;
     padding-top: 15px;
     padding-bottom: 15px;
